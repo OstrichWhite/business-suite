@@ -4,3 +4,6 @@
 [submodule "storefront"]
 	path = storefront
 	url = git@github.com:OstrichWhite/storefront.git
+[submodule "admin-panel"]
+	path = admin-panel
+	url = git@github.com:OstrichWhite/admin-panel.git
