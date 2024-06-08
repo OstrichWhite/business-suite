@@ -1,3 +1,6 @@
 [submodule "api"]
 	path = api
 	url = git@github.com:OstrichWhite/api.git
+[submodule "storefront"]
+	path = storefront
+	url = git@github.com:OstrichWhite/storefront.git
